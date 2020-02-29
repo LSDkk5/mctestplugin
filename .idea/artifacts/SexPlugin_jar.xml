@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SexPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SexPlugin_jar</output-path>
+    <root id="archive" name="SexPlugin.jar">
+      <element id="module-output" name="SexPlugin" />
+    </root>
+  </artifact>
+</component>

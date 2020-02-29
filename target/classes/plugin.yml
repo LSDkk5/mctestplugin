@@ -1,0 +1,8 @@
+name: SexPlugin
+version: 1.15.2
+main: papper.plugin.SexPlugin
+api-version: 1.13
+authors: [wr4ith5]
+commands:
+  test:
+    description: test.

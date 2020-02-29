@@ -1,0 +1,8 @@
+name: SexPlugin
+version: ${project.version}
+main: papper.plugin.SexPlugin
+api-version: 1.13
+authors: [wr4ith5]
+commands:
+  sex:
+    aliases: [fuck, fap, sex]
